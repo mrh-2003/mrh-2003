@@ -7,8 +7,7 @@
 ✨ Soy Juanillo Calizaya, un estudiante de Ingeniería de Sistemas en la UPC, Lima, Perú, con una firme convicción por la programación y la enseñanza. Mi trayectoria habla de compromiso y dedicación.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mrh.2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hubcj2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hubcj2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrh2003) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrh.2003) 
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
@@ -26,25 +25,28 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrh-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=mrh-2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <p align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 </p>
+
+# 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mrh.2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hubcj2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hubcj2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrh2003) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrh.2003) 
 
 ---
 

@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Systems+Engineering+Student%2C;Active+Learner%2FResearcher%2C;Self-taught+Back-End+Developer%2C;Love+to+learn+new+stuffs...%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
-<br>
 
 # 💫 About Me:
 ✨ Soy Juanillo Calizaya, un estudiante de Ingeniería de Sistemas en la UPC, Lima, Perú, con una firme convicción por la programación y la enseñanza. Mi trayectoria habla de compromiso y dedicación.

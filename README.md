@@ -20,18 +20,29 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrh-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=mrh-2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </p>
+
 ### ✍️ Random Dev Quote
+
 <p align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </p>
+
 ### 😂 Random Dev Meme
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 </p>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

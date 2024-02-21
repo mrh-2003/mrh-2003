@@ -21,12 +21,16 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=mrh-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+</p>
 <br/>
-
+<p align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrh-2003&theme=dark&hide_border=false)
 
+</p>
 <br/>
-
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrh-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </p>

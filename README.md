@@ -1,3 +1,8 @@
+<p align="right"> 
+  
+[![](https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1)](https://visitcount.itsvg.in)
+</p>
+
 <h1 align="center"><b>Hi, I'm Huber Calizaya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Systems+Engineering+Student%2C;Active+Learner%2FResearcher%2C;Self-taught+Back-End+Developer%2C;Love+to+learn+new+stuffs...%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
@@ -66,7 +71,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mrh.2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hubcj2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hubcj2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrh2003) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrh.2003) 
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,9 @@
 <p align="right"> 
   
 <a href="https://visitcount.itsvg.in" target="_blank">
+  
         <img src="https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1" alt="Visit Count">
+        
     </a>
 </p>
 

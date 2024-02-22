@@ -1,10 +1,8 @@
 <p align="right"> 
   
 <a href="https://visitcount.itsvg.in" target="_blank">
-  
-        <img src="https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1" alt="Visit Count">
-        
-    </a>
+  <img src="https://visitcount.itsvg.in/api?id=mrh-2003&icon=2&color=1" alt="Visit Count">     
+</a>
 </p>
 
 <h1 align="center"><b>Hi, I'm Huber Calizaya (Mr H) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
